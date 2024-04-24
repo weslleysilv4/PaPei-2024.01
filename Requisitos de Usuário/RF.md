@@ -20,6 +20,4 @@
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
 
-# 2. Referências
 
-<a href="../README.md">VOLTAR AO INÍCIO</a>
