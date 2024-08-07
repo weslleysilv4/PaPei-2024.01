@@ -7,6 +7,7 @@
 - [Murillo Amadeu](https://github.com/amadeu-murillo)
 - [Luan Venicios]()
 - [Leonardo Fasano](https://github.com/Fasano18)
+- [Larissa Ishikawa](https://github.com/larissaiishikawa)
 
 ---
 
