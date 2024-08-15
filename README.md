@@ -1,5 +1,7 @@
 # PaPei
 
+<img src="PapeiLogo.png" height="560px">
+
 ### Alunos 
 - [Victor Gabriel Lucio](https://github.com/ieVictor)
 - [Weslley Silva](https://github.com/weslleysilv4)
