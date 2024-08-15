@@ -11,9 +11,9 @@
 <div style="display: flex, width: 100%, gap: 20px">
   <p><strong>Navegação Inferior</strong></p>
   <img src="./Home.png" width="240px" height="566px"/>
-  <img src="./Menu.png" wwidth="240px" height="566px"/> 
   <img src="./Extrato.png" width="240px" height="566px"/>
-  <img src="./Ticket.png" width="240px" height="566px"/> 
+  <img src="./Ticket.png" width="240px" height="566px"/>
+  <img src="./Menu.png" wwidth="240px" height="566px"/>
   <div>
     <p><strong>Modais</strong></p>
     <img src="./Crachá-universitário.png" width="280px" height="562.46px"/>
