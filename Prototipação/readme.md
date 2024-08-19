@@ -18,5 +18,6 @@
     <p><strong>Modais</strong></p>
     <img src="./Crachá-universitário.png" width="280px" height="562.46px"/>
     <img src="./Cardápio Semanal.png" width="280px" height="562.46px"/>
+    <img src="./AdicionarDinheiro.png" width="280px" height="562.46px"/>
   <div/>
 </div>
